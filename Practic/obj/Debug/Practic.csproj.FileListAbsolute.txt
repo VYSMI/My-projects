@@ -1,0 +1,16 @@
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\bin\Debug\Practic.exe.config
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\bin\Debug\Practic.exe
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\bin\Debug\Practic.pdb
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.csproj.AssemblyReference.cache
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\App.g.cs
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic_MarkupCompile.cache
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic_MarkupCompile.lref
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\MainWindow.baml
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.g.resources
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.Properties.Resources.resources
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.exe
+C:\Users\Владислав III\Documents\Projects C#\Practic\Practic\obj\Debug\Practic.pdb
